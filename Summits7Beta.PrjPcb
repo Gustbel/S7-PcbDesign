@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Summits7Beta_LIB_Sch.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZJPBJHAB
-
-[Document2]
 DocumentPath=Summits7Beta_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEQMAFNX
 
-[Document3]
+[Document2]
 DocumentPath=Summits7Beta_Sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,8 +71,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKGJSVHM
 
+[Document3]
+DocumentPath=LibraryUsed\Summits7Beta_LIB_Integrados_PCB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YRKKRBOA
+
 [Document4]
-DocumentPath=Summits7Beta_LIB__PCB.PcbLib
+DocumentPath=LibraryUsed\Summits7Beta_LIB_Integrados_Sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
