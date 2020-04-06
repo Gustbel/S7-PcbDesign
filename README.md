@@ -1,4 +1,4 @@
-# Diseño en ALTIUM del PCB del Summits 7 - Versión Beta #
+﻿# Diseño en ALTIUM del PCB del Summits 7 - Versión Beta #
 
 ![alt tex](images/icon_bitbucket.png)
 
@@ -16,9 +16,10 @@ Este repositorio tiene dos Branches (o Ramas):
 
 ## ¿Como puedo consultar el proyecto?
 1. Si no lo tiene, instalar cualquier versión de Altium Designer en su PC.
-2. Descargar este repositorio desde un botón con tres puntos **(...)** que se encuentra en la esquina superior derecha del repositorio (al lado del botón *Clone*), luego seleccione ***Download Repository***. Se descargará un archivo comprimido *.zip*.
-3. Descomprima la carpeta del Repositorio en alguna carpeta conocida.
-4. Abra Altium y seleccione el proyecto que acaba de descomprimir.
+2. Posicionese en el **BRANCH** (o rama) que usted desee descargar. Para seleccionar el branch haga click en el menú desplegable que está debajo del título del Repositorio (mas específicamente debajo de la descripción del repositorio) y elija el Branch que usted desee.
+3. Descargar este repositorio desde un botón con tres puntos **(...)** que se encuentra en la esquina superior derecha del repositorio (al lado del botón *Clone*), luego seleccione ***Download Repository***. Se descargará un archivo comprimido *.zip*.
+4. Descomprima la carpeta del Repositorio en alguna carpeta conocida.
+5. Abra Altium y seleccione el proyecto que acaba de descomprimir.
 
 ## Consultas
 - electronic@box-synergy.com	---  Contacto Área Electrónica de Box Synergy
