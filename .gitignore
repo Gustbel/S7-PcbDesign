@@ -4,5 +4,6 @@
 *.PcbDocPreview
 *\__Previews
 *\History
+*\datasheets
 *.PrjPcbStructure
 *~$*
