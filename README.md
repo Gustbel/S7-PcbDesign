@@ -2,6 +2,14 @@
 
 ![alt tex](images/icon_bitbucket.png)
 
+## Hoja de Ruta:
+1. Creación y configuración del Programa y creación del Repositorio ----  *LISTO  - Viernes 3/04 (1 día)*
+2. Carga de los Componentes ---- ***En Proceso*** *- Lunes 6/04 -* 
+3. Carga del Circuito completo en el archivo Schematic.
+4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).
+5. Ruteado de la Placa.	
+6. Generación de archivos BOM
+
 ## ¿Para que es este repositorio? 
 
  - Este repositorio servirá para tener un **Control de Versiones**, **Acceso Remoto al developer** y **Permitir Acceso continuo de avances** al equipo de trabajo de *Box Synergy*.
