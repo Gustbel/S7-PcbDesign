@@ -4,8 +4,8 @@
 
 ## Hoja de Ruta:
 1. Creación y configuración del Programa y creación del Repositorio ----  *LISTO  - Viernes 3/04 (1 día)*
-2. Carga de los Componentes ---- *LISTO  - Lunes 6/04 - Lunes 13/04 (4 días y medio)* 
-3. Carga del Circuito completo en el archivo Schematic ---- ***En Proceso*** *- Lunes 13/04 -* 
+2. Carga de los Componentes ---- *LISTO  - Lunes 6/04 - Lunes 13/04 (5 días)* 
+3. Carga del Circuito completo en el archivo Schematic ---- ***En Proceso*** *- Martes 14/04 -* 
 4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).
 5. Ruteado de la Placa.	
 6. Generación de archivos BOM
