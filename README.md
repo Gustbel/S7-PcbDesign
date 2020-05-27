@@ -5,9 +5,12 @@
 ## Hoja de Ruta:
 1. Creación y configuración del Programa y creación del Repositorio ----  *LISTO  - Viernes 3/04 (1 día)*
 2. Carga de los Componentes ---- *LISTO  - Lunes 6/04 - Lunes 13/04 (5 días)* 
-3. Carga del Circuito completo en el archivo Schematic ---- ***En Proceso*** *- Martes 14/04 -* 
-4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).
-5. Ruteado de la Placa.	
+3. Carga del Circuito completo en el archivo Schematic ----  *LISTO  - Martes 14/04 - Jueves 16/04* (2 días)
+    - *Larga Pausa de Documentación, mejora del Schematic y otros trabajos por lo que se suspendió el diseño de placa.*
+4. Diagrama y diseño Tentativo del PCB en papel (También se hicieron mejoras y arreglos al Schematic) ----  *LISTO  - Lunes 04/05 - Viernes 08/05* (5 días)
+    - *Otra Pausa, espera de un nuevo diseño de placa y Comienzo de la Placa FROST, Prueba del circuit Fotodiodo , Prueba del Cargador de 3A*  
+4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).  ----  *LISTO  - Martes 26/05 - Miercoles 27/05* (1 día y medio)
+5. Ruteado de la Placa.	***En Proceso*** - Miercoles 27/05 -
 6. Generación de archivos BOM
 
 ## ¿Para que es este repositorio? 
