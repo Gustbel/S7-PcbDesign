@@ -11,8 +11,8 @@
 4. Diagrama y diseño Tentativo del PCB en papel (También se hicieron mejoras y arreglos al Schematic) ----  *LISTO  - Lunes 04/05 - Viernes 08/05* (5 días)
     - *Otra Pausa, espera de un nuevo diseño de placa y Comienzo de la Placa FROST, Prueba del circuit Fotodiodo , Prueba del Cargador de 3A*  
 4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).  ----  *LISTO  - Martes 26/05 - Miercoles 27/05* (1 día y medio)
-5. Ruteado de la Placa.	*LISTO  - Miercoles 27/05 - Viernes 29/05* 
-6. Testeos y Checks varios.   ***En Proceso*** - Miercoles 27/05 
+5. Ruteado de la Placa.	*LISTO  - Miercoles 27/05 - Viernes 29/05 (2 días y medio)* 
+6. Testeos y Checks varios.   ***En Proceso*** 
 7. Generación de archivos BOM para mandar a fabricar
 
 ![alt tex](images/PCBfinalizado1.jpg)
