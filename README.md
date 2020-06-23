@@ -12,7 +12,10 @@
     - *Otra Pausa, espera de un nuevo diseño de placa y Comienzo de la Placa FROST, Prueba del circuit Fotodiodo , Prueba del Cargador de 3A*  
 4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).  ----  *LISTO  - Martes 26/05 - Miercoles 27/05* (1 día y medio)
 5. Ruteado de la Placa.	*LISTO  - Miercoles 27/05 - Viernes 29/05 (2 días y medio)* 
-6. Testeos y Checks varios.   ***En Proceso*** 
+6. Surgió una investigación sobre certificaciones. *entre Miercoles 10/06 - Viernes 19/06*
+**NOTA SE HIZO UN PULL AL MASTER CON ESTA VERSIÓN TERMINADA CON LA ANTENA PCB EL DÍA 23/06**
+7. Debido a estas certifiaciones deben hacerse pequeños cambios **En Proceso** - Lunes 22/06
+6. Testeos y Checks varios.   
 7. Generación de archivos BOM para mandar a fabricar
 
 ![alt tex](images/PCBfinalizado1.jpg)
