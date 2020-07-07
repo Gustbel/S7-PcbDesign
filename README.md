@@ -14,8 +14,8 @@
 5. Ruteado de la Placa.	*LISTO  - Miercoles 27/05 - Viernes 29/05 (2 días y medio)* 
 6. Surgió una investigación sobre certificaciones. *entre Miercoles 10/06 - Viernes 19/06*
 **NOTA SE HIZO UN PULL AL MASTER CON ESTA VERSIÓN TERMINADA CON LA ANTENA PCB EL DÍA 23/06**
-7. Debido a estas certifiaciones deben hacerse pequeños cambios **En Proceso** - Lunes 22/06
-6. Testeos y Checks varios.   
+7. Debido a estas certifiaciones deben hacerse pequeños cambios *LISTO  - Lunes 22/06 - Lunes 06/07 (Se demoró esto porque se hizo conjuntamente con la placa FROST)*
+6. Testeos y Checks varios. **En Proceso** - Martes 7/07  
 7. Generación de archivos BOM para mandar a fabricar
 
 ![alt tex](images/PCBfinalizado1.jpg)
