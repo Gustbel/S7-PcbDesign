@@ -18,7 +18,7 @@
 6. Testeos y Checks varios. **En Proceso** - Martes 7/07  
 7. Generación de archivos BOM para mandar a fabricar
 
-![alt tex](images/PCBfinalizado1.jpg)
+![alt tex](images/PCBFinal_ConAntenaCeramica.jpg)
 
 ## ¿Para que es este repositorio? 
 
