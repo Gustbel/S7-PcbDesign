@@ -224,14 +224,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEPFOFXD
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Summits7Beta\Design Rule Check - borrar.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Summits7Beta\Design Rule Check - Summits7Beta_PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
