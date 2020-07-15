@@ -191,23 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IKJWVFOF
 
 [Document10]
-DocumentPath=Summits7Beta_PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FTCSDMHG
-
-[Document11]
 DocumentPath=Summits7Beta_PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEPFOFXD
 
-[Document12]
+[Document11]
 DocumentPath=Summis7Beta_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,10 +223,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Summits7Beta\Export STEP\Summits7Beta_PCB.step
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

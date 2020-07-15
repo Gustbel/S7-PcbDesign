@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Summits7Beta_PCB2.PcbDoc   15/7/2020  19:13:22
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Summits7Beta_PCB2.TXT
+ASCII RectHoles File : Summits7Beta_PCB2-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             154       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Rectangle         4         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             6         PTH        0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              176
+
+Total Processing Time (hh:mm:ss) : 00:00:01
