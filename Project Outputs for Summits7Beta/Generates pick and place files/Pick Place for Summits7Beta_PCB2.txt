@@ -4,8 +4,8 @@ C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\Generates pick and p
 ========================================================================================================================
 File Design Information:
 
-Date:       15/07/20
-Time:       19:05
+Date:       16/07/20
+Time:       02:19
 Revision:   3849dfc8369d651bf2eff8e13b6e02ddddf13be9
 Variant:    No variations
 Units used: mil
@@ -46,8 +46,8 @@ RcS        "0.01 Ohm 0.5W 1%" TopLayer    RES-SHUNT-0805                  742.12
 Q          ZXT11N20DF         TopLayer    TRANSISTOR_SOT23-3              1870.079      539.370       180      "Transistor NPN Low Saturation Vce"                                                           
 La1        4.3nH              BottomLayer IND_0603                        1072.681      695.866       90       "Inductor SMD 0603"                                                                           
 Le         "6.8uH 2.3A"       TopLayer    INDUCTOR_SRN5040                1830.709      332.677       90       Inductor_SRN5040                                                                              
-J_UART     Connx4_UART        TopLayer    UART-1.27MM                     2003.937      708.661       180      "1.27mm Pin Header 4x1"                                                                       
-J_Jumper   Jumper             TopLayer    JUMPER-1.27_MM                  1637.795      433.071       270      "2.54mm Pin Header 2x1"                                                                       
+J_UART     M50-3530442        TopLayer    UART-1.27MM                     2003.937      708.661       180      "1.27mm Pin Header 4x1"                                                                       
+J_Jumper   M50-3530242        TopLayer    JUMPER-1.27_MM                  1637.795      433.071       270      "1.27mm Pin Header 2x1"                                                                       
 D_Phot     VBPW34S            TopLayer    BPW34S                          424.213       492.126       180      "Photodiode 850nm 25ns 120° 2-SMD, Gull Wing"                                                
 D_LED      OVLGC0C6B9         TopLayer    LED                             2063.976      511.811       90       "LED Green-Blue 505nm"                                                                        
 Cy2        22pF               TopLayer    CAP_0603                        832.283       916.142       270      "Capac Ceramic SMD"                                                                           
