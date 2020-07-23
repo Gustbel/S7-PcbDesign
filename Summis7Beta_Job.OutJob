@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Summis7Beta_Job.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -55,9 +55,9 @@ OutputName2=Export STEP
 OutputCategory2=Export
 OutputDocumentPath2=Summits7Beta_PCB2.PcbDoc
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
-OutputEnabled2_OutputMedium2=1
+OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
@@ -169,7 +169,7 @@ OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
-OutputEnabled4_OutputMedium4=1
+OutputEnabled4_OutputMedium4=0
 OutputEnabled4_OutputMedium5=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
@@ -311,7 +311,7 @@ FFmpegPixelFormat3=0
 FFmpegQuality3=80
 WmvVideoCodecName3=Windows Media Video V7
 WmvQuality3=80
-OutputFilePath4=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Job.PDF
+OutputFilePath4=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Schematic.PDF
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for Summits7Beta
 OutputPathMedia4==OutputName
@@ -379,7 +379,7 @@ OpenIPCOutput2=0
 EnableReload2=0
 RelativeOutputPath3=
 OpenOutputs3=1
-RelativeOutputPath4=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Job.PDF
+RelativeOutputPath4=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Schematic.PDF
 OpenOutputs4=1
 RelativeOutputPath5=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Layer.PDF
 OpenOutputs5=1

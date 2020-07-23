@@ -1,0 +1,15 @@
+Important considerations:
+
+1) The Thinkness of the FR4 should be 0.8mm.
+
+2) Any question, query, error found, or change of any component please consult by sending an e-mail, it will be answered quickly.
+The contact is the Electronic Engineer in charge of the design: Gustavo Belbruno, contact email "electronic@box-synergy.com". All design questions should be addressed to him.
+
+1) About the devices used. The importance of each designed component has been specified in the BOM file.
+Please in the case of not obtaining a component marked as irreplaceable, you should contact the engineer to determine the best option for its replacement.
+
+
+With nothing more to add. Have a nice day.
+
+Gustavo Belbruno
+Engineering Area - Box Synergy
