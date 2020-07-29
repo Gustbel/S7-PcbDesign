@@ -2,6 +2,17 @@
 FileName = Summits7Beta_PCB2.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board Outline
+      File : Summits7Beta_PCB2.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : Summits7Beta_PCB2.GBP
 
@@ -13,12 +24,12 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D49
-    D50
+    D37
     D52
-    D53
-    D117
-    D118
+    D54
+    D55
+    D121
+    D122
 *************************************************************
 
 *************************************************************
@@ -33,8 +44,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D34
-    D35
     D36
     D37
     D38
@@ -54,91 +63,8 @@ Used DCodes :
     D52
     D53
     D54
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Summits7Beta_PCB2.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D14
-    D18
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Summits7Beta_PCB2.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D71
-    D72
-    D74
-    D75
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D120
-    D121
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Summits7Beta_PCB2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D50
-    D52
-    D53
-    D89
-    D90
-    D94
-    D95
-    D96
-    D97
-    D98
-    D100
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
+    D55
+    D56
 *************************************************************
 
 *************************************************************
@@ -153,8 +79,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D55
-    D56
     D57
     D58
     D59
@@ -187,6 +111,81 @@ Used DCodes :
     D86
     D87
     D88
+    D89
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Summits7Beta_PCB2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D52
+    D54
+    D55
+    D92
+    D93
+    D98
+    D99
+    D100
+    D102
+    D104
+    D105
+    D106
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Summits7Beta_PCB2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D59
+    D75
+    D77
+    D78
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D124
+    D125
 *************************************************************
 
 *************************************************************
@@ -221,17 +220,22 @@ Used DCodes :
     D31
     D32
     D33
+    D34
+    D35
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : Summits7Beta_PCB2.GM2
+Generating : Bottom Overlay
+      File : Summits7Beta_PCB2.GBO
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D30
+    D10
+    D13
+    D17
+    D31
 *************************************************************
 
 *************************************************************
@@ -244,9 +248,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D14
-    D34
-    D35
+    D10
     D36
     D37
     D38
@@ -266,9 +268,8 @@ Used DCodes :
     D52
     D53
     D54
-    D89
-    D90
-    D91
+    D55
+    D56
     D92
     D93
     D94
@@ -294,5 +295,9 @@ Used DCodes :
     D114
     D115
     D116
+    D117
+    D118
+    D119
+    D120
 *************************************************************
 
