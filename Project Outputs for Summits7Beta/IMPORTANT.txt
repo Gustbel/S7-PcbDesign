@@ -1,7 +1,7 @@
 Important considerations:
 - Outputs FROM Altium Designer 19
 
-1) The Thinkness of the FR4 should be 0.8mm.
+1) The Thinkness of the FR4 should be 1mm.
 
 2) Any question, query, error found, or change of any component please consult by sending an e-mail, it will be answered quickly.
 The contact is the Electronic Engineer in charge of the design: Gustavo Belbruno, contact email "electronic@box-synergy.com". All design questions should be addressed to him.

@@ -22,7 +22,7 @@ VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Microsoft Print to PDF
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -47,7 +47,7 @@ OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=1
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType2=ExportSTEP
@@ -55,9 +55,9 @@ OutputName2=Export STEP
 OutputCategory2=Export
 OutputDocumentPath2=Summits7Beta_PCB2.PcbDoc
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
-OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium2=1
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
@@ -275,17 +275,17 @@ Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16908290~1,16973835~1,16973830~1,16842751~1,16973834~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 
 [PublishSettings]
-OutputFilePath2=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\
+OutputFilePath2=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\PCB Models 3D\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for Summits7Beta
-OutputPathMedia2==OutputName
-OutputPathMediaValue2==OutputName
+OutputPathMedia2=PCB Models 3D
+OutputPathMediaValue2=PCB Models 3D
 OutputPathOutputer2=
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2==OutputName
 OutputFileName2=
 OutputFileNameMulti2=Summits7Beta_PCB
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=
@@ -381,7 +381,7 @@ PDFACompliance5=Disabled
 PDFVersion5=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\
+RelativeOutputPath2=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\PCB Models 3D\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
