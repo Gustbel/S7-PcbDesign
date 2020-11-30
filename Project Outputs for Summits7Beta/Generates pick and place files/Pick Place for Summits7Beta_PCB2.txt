@@ -1,0 +1,72 @@
+Altium Designer Pick and Place Locations
+C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\Generates pick and place files\Pick Place for Summits7Beta_PCB2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/08/20
+Time:       17:09
+Revision:   2bcb8fede5bfe0b31ec7448432f343c7834144f2
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
+U7         "EEPROM 128K"      TopLayer    24CW128                         820.866       613.189       90       "EEPROM 128K"                                                                                 
+Ri2        270                BottomLayer RES_0603                        1298.228      553.150       180      "Resistor SMD"                                                                                
+Ri1        270                BottomLayer RES_0603                        1063.976      327.756       180      "Resistor SMD"                                                                                
+Ci1        0.1uF              BottomLayer CAP_0603                        1018.701      397.638       360      "Capac Ceramic SMD"                                                                           
+U4         MCP6002-E/MC       TopLayer    MCP6002-DFN8                    413.386       186.529       270      "Double OP AMP - 1.8V 1MHz  Single Supply"                                                    
+Rd4        2.2K               TopLayer    RES_0603                        326.772       50.197        360      "Resistor SMD"                                                                                
+Rd3        22K                TopLayer    RES_0603                        463.583       51.181        180      "Resistor SMD"                                                                                
+J_USB      CQ-USB-AFFS90      TopLayer    USB-A__IPX8                     1230.315      400.787       360      "Conector del USB   --   CQ-USB-AFFS90"                                                       
+Cb1        4.7uF              BottomLayer CAP_0603                        1759.842      705.860       270      "Capac Ceramic SMD"                                                                           
+J_Solar    Connx2_Panel       TopLayer    PANEL_IN                        2177.165      448.819       90       "Conector del Panel"                                                                          
+RqT        R_Trimmer_1K       TopLayer    RES_TRIMMER                     2322.835      602.362       90       "Trimmer Resistor SMD 1kohm"                                                                  
+Rq2        33                 BottomLayer RES_0603                        1939.961      515.748       90       "Resistor SMD"                                                                                
+La2        2.2nH              TopLayer    IND_0402                        770.669       812.152       90       "Inductor SMD 0402"                                                                           
+Ca4        2.4pF              TopLayer    CAP_0402                        727.360       879.929       90       "Capac Ceramic SMD"                                                                           
+Ca3        3.0pF              TopLayer    CAP_0402                        815.945       747.247       270      "Capac Ceramic SMD"                                                                           
+Antenna    AntennaCeramic     TopLayer    ANTENNA_CERAMIC_SUMMITS         501.980       864.181       360      "Antena de Cer�mica"                                                                          
+Rd2        6.8K               TopLayer    RES_0603                        630.905       589.961       90       "Resistor SMD"                                                                                
+Cd4        2.2uF              TopLayer    CAP_0603                        697.835       612.391       90       "Capac Ceramic SMD"                                                                           
+Ra5        5.6K               BottomLayer RES_0603                        1322.835      616.142       180      "Resistor SMD"                                                                                
+RdT        R_Trimmer_20K      TopLayer    RES_TRIMMER                     141.732       429.134       270      "Trimmer Resistor SMD 20kohm"                                                                 
+Y          ABM8-26MHz         TopLayer    ABM8-26_OSCSC320X250X100N       929.282       889.764       180      "26MHz ±10ppm Crystal 10pF 50 Ohms 4-SMD, No Lead"                                           
+U6         LT1117IST-3.3      BottomLayer LT1117IST-3.3_SOT-223           629.921       490.754       180      "LDO Regulator Pos 3.3V 0.8A Automotive 4-Pin_3+Tab_ SOT-223 Tube"                            
+U5         AP65111AWU-7       TopLayer    AP65111A-SOT23-6                2027.559      217.520       180      "Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 1.5A SOT-23-6 Thin, TSOT-23-6" 
+U3         INA219BIDCNR       TopLayer    INA219B_SOT23                   602.461       271.654       180      "Current Monitor Regulator High-Side 10mA SOT-23-8"                                           
+U2         W25Q32JVSSIQ       TopLayer    W25Q32JVSSIQ_SOIC127P790X216-8N 1673.228      811.024       360      "FLASH - NOR Memory IC 32Mb _4M x 8_ SPI - Quad I/O 133MHz 8-SOIC"                            
+U1         ESP8266EX          TopLayer    ESP8266_QFN32-5X5MM             1212.598      763.779       0        "Microcontrolador ESP8266"                                                                    
+Rq1        1K                 TopLayer    RES_0603                        1801.772      641.732       180      "Resistor SMD"                                                                                
+Re3        59K                TopLayer    RES_0603                        2043.307      82.677        270      "Resistor SMD"                                                                                
+Re2        7.68K              TopLayer    RES_0603                        2106.299      83.268        90       "Resistor SMD"                                                                                
+Re1        43.2K              TopLayer    RES_0603                        1980.315      83.268        270      "Resistor SMD"                                                                                
+Rd1        1K                 TopLayer    RES_0603                        384.842       343.504       270      "Resistor SMD"                                                                                
+Rc2        10K                TopLayer    RES_0603                        692.913       436.417       270      "Resistor SMD"                                                                                
+Rc1        10K                TopLayer    RES_0603                        618.110       436.417       270      "Resistor SMD"                                                                                
+Ra4        1K                 TopLayer    RES_0603                        1763.780      523.622       270      "Resistor SMD"                                                                                
+Ra3        499                TopLayer    RES_0603                        2029.153      846.457       90       "Resistor SMD"                                                                                
+Ra2        200                TopLayer    RES_0603                        1409.449      812.992       270      "Resistor SMD"                                                                                
+Ra1        "12K +- 1%"        TopLayer    RES_0603                        1125.984      915.354       180      "Resistor SMD"                                                                                
+RcS        "0.01 Ohm 0.5W 1%" TopLayer    RES-SHUNT-0805                  742.126       246.063       90       Shunt                                                                                         
+Q          ZXT11N20DF         TopLayer    TRANSISTOR_SOT23-3              1870.079      539.370       180      "Transistor NPN Low Saturation Vce"                                                           
+La1        4.3nH              BottomLayer IND_0603                        1072.681      695.866       90       "Inductor SMD 0603"                                                                           
+Le         "6.8uH 2.3A"       TopLayer    INDUCTOR_SRN5040                1830.709      332.677       90       Inductor_SRN5040                                                                              
+J_UART     M50-3530442        TopLayer    UART-1.27MM                     2003.937      708.661       180      "1.27mm Pin Header 4x1"                                                                       
+J_Jumper   M50-3530242        TopLayer    JUMPER-1.27_MM                  1635.827      483.445       270      "1.27mm Pin Header 2x1"                                                                       
+D_Phot     VBPW34S            TopLayer    BPW34S                          424.213       492.126       180      "Photodiode 850nm 25ns 120° 2-SMD, Gull Wing"                                                
+D_LED      OVLGC0C6B9         TopLayer    LED                             2063.976      511.811       90       "LED Green-Blue 505nm"                                                                        
+Cy2        22pF               TopLayer    CAP_0603                        832.283       916.142       270      "Capac Ceramic SMD"                                                                           
+Cy1        22pF               TopLayer    CAP_0603                        1035.433      909.449       270      "Capac Ceramic SMD"                                                                           
+Cf2        22uF               BottomLayer CAP_0603                        834.646       535.433       90       "Capac Ceramic SMD"                                                                           
+Cf1        22uF               BottomLayer CAP_0603                        878.543       440.945       360      "Capac Ceramic SMD"                                                                           
+Ce3        22uF               TopLayer    CAP_1210                        1644.685      295.236       90       "Capac Ceramic SMD"                                                                           
+Ce2        1uF                TopLayer    CAP_0603                        2004.528      314.961       360      "Capac Ceramic SMD"                                                                           
+Ce1        22uF               TopLayer    CAP_1210                        2334.646      384.646       0        "Capac Ceramic SMD"                                                                           
+Cd3        100pF              TopLayer    CAP_0603                        138.386       561.811       180      "Capac Ceramic SMD"                                                                           
+Cd2        100pF              TopLayer    CAP_0603                        328.722       343.018       90       "Capac Ceramic SMD"                                                                           
+Cd1        4.7uF              TopLayer    CAP_0603                        477.362       346.955       270      "Capac Ceramic SMD"                                                                           
+Cc1        4.7uF              BottomLayer CAP_0603                        751.968       316.929       360      "Capac Ceramic SMD"                                                                           
+Cbus       22uF               TopLayer    CAP_1210                        807.087       413.386       90       "Capac Ceramic SMD"                                                                           
+Ca2        100nF              BottomLayer CAP_0603                        1132.523      629.921       270      "Capac Ceramic SMD"                                                                           
+Ca1        10uF               BottomLayer CAP_0603                        996.063       626.527       270      "Capac Ceramic SMD"                                                                           
