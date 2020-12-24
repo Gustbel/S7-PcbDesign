@@ -22,7 +22,7 @@ VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Microsoft Print to PDF
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -275,11 +275,11 @@ Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16908290~1,16973835~1,16973830~1,16842751~1,16973834~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 
 [PublishSettings]
-OutputFilePath2=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\PCB Models 3D\
+OutputFilePath2=C:\Users\User\Documents\BoxSynergy\Repositorios\summits7betav2\Project Outputs for Summits7Beta\OutputName\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for Summits7Beta
-OutputPathMedia2=PCB Models 3D
-OutputPathMediaValue2=PCB Models 3D
+OutputPathMedia2==OutputName
+OutputPathMediaValue2==OutputName
 OutputPathOutputer2=
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2==OutputName
@@ -381,7 +381,7 @@ PDFACompliance5=Disabled
 PDFVersion5=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\PCB Models 3D\
+RelativeOutputPath2=C:\Users\User\Documents\BoxSynergy\Repositorios\summits7betav2\Project Outputs for Summits7Beta\OutputName\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
