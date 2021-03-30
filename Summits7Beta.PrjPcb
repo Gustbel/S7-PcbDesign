@@ -282,71 +282,11 @@ DocumentPath=Project Outputs for Summits7Beta\Gerber X2 Files\Summits7Beta_PCB2_
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Summits7Beta\Folder Structure\Summits7Beta_PCB-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Summits7Beta\Folder Structure\Summits7Beta_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
 DocumentPath=Project Outputs for Summits7Beta\Gerber X2 Files\Summits7Beta_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Summits7Beta\Gerber X2 Files\Summits7Beta_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Summits7Beta\Generate Files\Summits7Beta_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Summits7Beta\Export STEP\Summits7Beta_PCB.step
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Summits7Beta\Folder Structure\Summits7Beta_PCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -471,7 +411,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=EPSON XP-201 204 208 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
