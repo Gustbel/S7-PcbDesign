@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Summis7Beta_Job.OutJob
+Name=Summis7_Job.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=EPSON XP-201 204 208 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -47,17 +47,17 @@ OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=1
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4 (210 x 297 mm)|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType2=ExportSTEP
 OutputName2=Export STEP
 OutputCategory2=Export
-OutputDocumentPath2=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
-OutputEnabled2_OutputMedium2=1
+OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
@@ -67,7 +67,7 @@ Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 OutputType3=Composite
 OutputName3=Layers
 OutputCategory3=Documentation
-OutputDocumentPath3=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -76,7 +76,7 @@ OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputEnabled3_OutputMedium5=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4 (210 x 297 mm)|PaperIndex=9
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration3_Name2=OutputConfigurationParameter2
@@ -163,7 +163,7 @@ PcbPrintPreferences3=
 OutputType4=Assembly
 OutputName4=Assembly Drawings
 OutputCategory4=Assembly
-OutputDocumentPath4=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -172,7 +172,7 @@ OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=1
 OutputEnabled4_OutputMedium5=0
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4 (210 x 297 mm)|PaperIndex=9
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration4_Name2=OutputConfigurationParameter2
@@ -195,11 +195,11 @@ PcbPrintPreferences4=
 OutputType5=Pick Place
 OutputName5=Generates pick and place files
 OutputCategory5=Assembly
-OutputDocumentPath5=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
-OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium2=1
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputEnabled5_OutputMedium5=0
@@ -209,7 +209,7 @@ Configuration5_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False
 OutputType6=Gerber
 OutputName6=Gerber Files
 OutputCategory6=Fabrication
-OutputDocumentPath6=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath6=
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -223,7 +223,7 @@ Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType7=NC Drill
 OutputName7=NC Drill Files
 OutputCategory7=Fabrication
-OutputDocumentPath7=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath7=
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -262,7 +262,7 @@ Configuration8_Item6=Index=102|Designator=120|Comment=120|Description=178|Packag
 OutputType9=Gerber X2
 OutputName9=Gerber X2 Files
 OutputCategory9=Fabrication
-OutputDocumentPath9=Summits7Beta_PCB2.PcbDoc
+OutputDocumentPath9=
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -275,9 +275,9 @@ Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16908290~1,16973835~1,16973830~1,16842751~1,16973834~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 
 [PublishSettings]
-OutputFilePath2=C:\Users\User\Documents\BoxSynergy\Repositorios\summits7betav2\Project Outputs for Summits7Beta\OutputName\
+OutputFilePath2=C:\Users\User\Documents\BoxSynergy\Repositorios\Summits7_RTM\Project Outputs for Summits7\OutputName\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Summits7Beta
+OutputBasePath2=Project Outputs for Summits7
 OutputPathMedia2==OutputName
 OutputPathMediaValue2==OutputName
 OutputPathOutputer2=
@@ -285,12 +285,12 @@ OutputPathOutputerPrefix2=
 OutputPathOutputerValue2==OutputName
 OutputFileName2=
 OutputFileNameMulti2=Summits7Beta_PCB
-UseOutputNameForMulti2=0
+UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Summits7Beta
+OutputBasePath3=Project Outputs for Summits7
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -327,7 +327,7 @@ WmvVideoCodecName3=Windows Media Video V7
 WmvQuality3=80
 OutputFilePath4=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Schematic.PDF
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Summits7Beta
+OutputBasePath4=Project Outputs for Summits7
 OutputPathMedia4==OutputName
 OutputPathMediaValue4==OutputName
 OutputPathOutputer4=[Output Type]
@@ -354,7 +354,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\BoxSynergy\Summits7Beta\Project Outputs for Summits7Beta\OutputName\Summis7Beta_Layer.PDF
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Summits7Beta
+OutputBasePath5=Project Outputs for Summits7
 OutputPathMedia5=Schematic_PDF
 OutputPathMediaValue5=Schematic_PDF
 OutputPathOutputer5=[Output Type]
@@ -381,7 +381,7 @@ PDFACompliance5=Disabled
 PDFVersion5=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\User\Documents\BoxSynergy\Repositorios\summits7betav2\Project Outputs for Summits7Beta\OutputName\
+RelativeOutputPath2=C:\Users\User\Documents\BoxSynergy\Repositorios\Summits7_RTM\Project Outputs for Summits7\OutputName\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
