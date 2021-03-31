@@ -1,5 +1,4 @@
 ﻿﻿﻿# Diseño en ALTIUM del PCB del Summits 7 - Versión RTM 1.0
-***Placa Finalizada - En proceso de checkeo***
 
 ![alt tex](images/icon.jpg)
 
