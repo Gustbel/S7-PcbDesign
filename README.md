@@ -30,4 +30,4 @@ Este repositorio tiene dos Branches (o Ramas):
 - gustavobelbruno@gmail.com		---  Contacto Gustavo Belbruno - Summits 7 Beta Project Main Designer
 
 
-																					Repository created 05/04/2020
+																Repository created 05/04/2020
